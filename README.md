@@ -49,4 +49,8 @@ Esse projeto está sob a licença MIT.
 
 ---
 
+## O que eu aprendi?
+
+Aprender o desenvolvimento front-end é uma jornada emocionante e gratificante que abre um mundo de possibilidades no domínio do desenvolvimento web. O desenvolvimento front-end se concentra na criação dos aspectos visuais e interativos de um site ou aplicativo da web com os quais os usuários interagem diretamente. Quer você seja um iniciante ou um desenvolvedor experiente em busca de expandir seu conjunto de habilidades, mergulhar no desenvolvimento front-end pode ser uma experiência gratificante.
+
 Feito com ♥ by Rocketseat :wave: [Participe da nossa comunidade!](https://discord.gg/rocketseat)
