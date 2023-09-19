@@ -34,6 +34,7 @@ body {
         o cover cobre toda hora visivel
     */
     background: var(--bg-url) no-repeat top center/cover;
+    height: 100vh;
     /* podemos fazer da maneira longa ou shorthand */
 }
 body * {
@@ -163,3 +164,15 @@ footer {
     font-size: 14px;
 }
 
+
+/*media queries*/
+
+@media (min-width: 700px) {
+    :root {
+        --bg-url: url(./assets/bg-desktop.jpg);
+    }
+
+    .light {
+        --bg-url: url(./assets/bg-desktop-light.jpg/);
+    }
+}
